@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckXingShiZhengCe", "FuckXingShiZhengCe\FuckXingShiZhengCe.csproj", "{A11F309A-4F49-4346-A957-2507B4E74944}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebviewTest", "WebviewTest\WebviewTest.csproj", "{81A2F568-9C00-4422-BB9A-6C3A1D4610EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{A11F309A-4F49-4346-A957-2507B4E74944}.Debug|x86.Build.0 = Debug|x86
 		{A11F309A-4F49-4346-A957-2507B4E74944}.Release|x86.ActiveCfg = Release|x86
 		{A11F309A-4F49-4346-A957-2507B4E74944}.Release|x86.Build.0 = Release|x86
+		{81A2F568-9C00-4422-BB9A-6C3A1D4610EF}.Debug|x86.ActiveCfg = Debug|x86
+		{81A2F568-9C00-4422-BB9A-6C3A1D4610EF}.Debug|x86.Build.0 = Debug|x86
+		{81A2F568-9C00-4422-BB9A-6C3A1D4610EF}.Release|x86.ActiveCfg = Release|x86
+		{81A2F568-9C00-4422-BB9A-6C3A1D4610EF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

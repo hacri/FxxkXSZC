@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FuckXingShiZhengCe.Properties {
+namespace WebviewTest.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace FuckXingShiZhengCe.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FuckXingShiZhengCe.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WebviewTest.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -65,44 +65,16 @@ namespace FuckXingShiZhengCe.Properties {
         ///&lt;html&gt;
         ///    &lt;head&gt;
         ///        &lt;meta charset=&quot;utf-8&quot;&gt;
-        ///        &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;/&gt;
-        ///        &lt;title&gt;home&lt;/title&gt;
-        ///        &lt;style&gt;
-        ///            html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, hea [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///        &lt;title&gt; &lt;/title&gt;
+        ///    &lt;/head&gt;
+        ///    &lt;body&gt;
+        ///        Hello World!
+        ///    &lt;/body&gt;
+        ///&lt;/html&gt; 的本地化字符串。
         /// </summary>
         internal static string homepage {
             get {
                 return ResourceManager.GetString("homepage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似于 (Icon) 的 System.Drawing.Icon 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Icon qb1 {
-            get {
-                object obj = ResourceManager.GetObject("qb1", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似于 (Icon) 的 System.Drawing.Icon 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Icon qb9 {
-            get {
-                object obj = ResourceManager.GetObject("qb9", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似 8a5f20c5a186c1b3528fc4695f4cc0cd,2,2,0
-        ///757e72fbc8f9dbce6e98cf67a81992bb,2,0,1 的本地化字符串。
-        /// </summary>
-        internal static string tiku_txt {
-            get {
-                return ResourceManager.GetString("tiku_txt", resourceCulture);
             }
         }
     }
